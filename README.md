@@ -1,4 +1,6 @@
-# Share Social Media Application
-![Share](https://i.ibb.co/8cLfj3X/image.png)
 
-Application web de réseau social.
+
+Application web de réseau social qui permet de :
+- la gestions des images postées.
+- Commenter et faire j'aime aux images des autres utilisateurs
+- Filtrer la recherche des images
